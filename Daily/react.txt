@@ -1,0 +1,53 @@
+virtual dom
+  * Defit algorithem :- compair between the two dom 
+  * Reconsilution process: the intire porsses is done in v dom.
+
+
+Class base component
+  If C.B.C we use method to to do update and delete or any modification in the C.B.C
+
+
+we have life cycle method.
+In life cycle method process:-
+1. mounting
+   
+2. updating
+
+3. unmounting
+
+function base component
+    In F.B.C we use Component and create a render function that returns a React element.
+
+28/nov
+
+h/w
+routing 
+use state
+
+
+-------------------------------------------------- 29/nov----------------------------------------------------------------------
+
+
+Q state vs props
+ ans; state use in single page using class
+          props use in component by using function
+
+
+--- jsx;  javaScript sintex extansion
+
+
+---------------------------------------------- 30/nov---------------------------------------------------
+
+React life cycle:-
+---------------------
+
+Routin
+---------
+switch ;        
+
+
+
+
+        
+
+
